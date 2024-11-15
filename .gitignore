@@ -1,0 +1,16 @@
+# Ignore dữ liệu người dùng
+users.json
+
+# Ignore các tệp biên dịch Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore các tệp hệ thống và các tệp của IDE
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Ignore các tệp log hoặc cache
+*.log
